@@ -32,7 +32,7 @@ Conclusion
 
 - It was evident from the discussions that women tend to feel more depressed than men, who tend to feel less depressed and more anxious. A mix of biological, psychological, and sociocultural factors may have an impact on it.
 
-- analysis highlights a heightened occurrence of panic attacks among individuals in the IT and Engineering fields. Recognizing this trend emphasizes the need for tailored mental health support in these professions.
+- Analysis highlights a heightened occurrence of panic attacks among individuals in the IT and Engineering fields. Recognizing this trend emphasizes the need for tailored mental health support in these professions.
 
-- descending pattern of depression rates within the 18-24 age group. Specifically, 18-year-olds show a higher prevalence than those aged 19-24, and similarly, 19-year-olds exhibit a higher incidence compared to individuals aged 20-24. This emphasizes the need for tailored mental health interventions to address the distinct challenges faced by each age group within the 18-24 range.
+- Descending pattern of depression rates within the 18-24 age group. Specifically, 18-year-olds show a higher prevalence than those aged 19-24, and similarly, 19-year-olds exhibit a higher incidence compared to individuals aged 20-24. This emphasizes the need for tailored mental health interventions to address the distinct challenges faced by each age group within the 18-24 range.
 
