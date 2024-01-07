@@ -32,3 +32,5 @@ Conclusion
 
 - It was evident from the discussions that women tend to feel more depressed than men, who tend to feel less depressed and more anxious. A mix of biological, psychological, and sociocultural factors may have an impact on it.
 
+- analysis highlights a heightened occurrence of panic attacks among individuals in the IT and Engineering fields. Recognizing this trend emphasizes the need for tailored mental health support in these professions.
+
